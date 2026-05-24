@@ -8,6 +8,186 @@
       "activo":true,
       "expira":"2027",
       "hwid":""
+    },
+
+    {
+      "usuario":"Alexcarga12",
+      "password":"Alex0803",
+      "plan":"ULTRA",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"RUCHO294",
+      "password":"isabellA294",
+      "plan":"ULTRA",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario03",
+      "password":"123456",
+      "plan":"FREE",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario04",
+      "password":"123456",
+      "plan":"ULTRA",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario05",
+      "password":"123456",
+      "plan":"FREE",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario06",
+      "password":"123456",
+      "plan":"ULTRA",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario07",
+      "password":"123456",
+      "plan":"FREE",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario08",
+      "password":"123456",
+      "plan":"ULTRA",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario09",
+      "password":"123456",
+      "plan":"FREE",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario10",
+      "password":"123456",
+      "plan":"ULTRA",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario11",
+      "password":"123456",
+      "plan":"FREE",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario12",
+      "password":"123456",
+      "plan":"ULTRA",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario13",
+      "password":"123456",
+      "plan":"FREE",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario14",
+      "password":"123456",
+      "plan":"ULTRA",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario15",
+      "password":"123456",
+      "plan":"FREE",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario16",
+      "password":"123456",
+      "plan":"ULTRA",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario17",
+      "password":"123456",
+      "plan":"FREE",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario18",
+      "password":"123456",
+      "plan":"ULTRA",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario19",
+      "password":"123456",
+      "plan":"FREE",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
+    },
+
+    {
+      "usuario":"usuario20",
+      "password":"123456",
+      "plan":"ULTRA",
+      "activo":true,
+      "expira":"2027",
+      "hwid":""
     }
 
   ]
