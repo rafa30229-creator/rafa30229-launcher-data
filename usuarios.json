@@ -1,20 +1,14 @@
 {
-  "rafa30229":{
+  "usuarios":[
 
-    "plan":"ULTRA"
+    {
+      "usuario":"rafa30229",
+      "password":"123456",
+      "plan":"ULTRA",
+      "activo":true,
+      "expira":"2099",
+      "hwid":""
+    }
 
-  },
-
-  "cliente1":{
-
-    "plan":"PREMIUM"
-
-  },
-
-  "cliente2":{
-
-    "plan":"FREE"
-
-  }
-
+  ]
 }
