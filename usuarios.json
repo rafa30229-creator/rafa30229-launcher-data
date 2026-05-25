@@ -29,7 +29,7 @@
     },
 
     {
-      "usuario":"usuario03",
+      "usuario":"trabajo",
       "password":"123456",
       "plan":"FREE",
       "activo":true,
