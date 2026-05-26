@@ -29,9 +29,9 @@
     },
 
     {
-      "usuario":"trabajo",
-      "password":"123456",
-      "plan":"FREE",
+      "usuario":"viego83",
+      "password":"viego83",
+      "plan":"ULTRA",
       "activo":true,
       "expira":"2027",
       "hwid":""
