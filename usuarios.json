@@ -65,9 +65,9 @@
     },
 
     {
-      "usuario":"usuario07",
-      "password":"123456",
-      "plan":"FREE",
+      "usuario":"Daniel2008",
+      "password":"Juegos10",
+      "plan":"ULTRA",
       "activo":true,
       "expira":"2027",
       "hwid":""
