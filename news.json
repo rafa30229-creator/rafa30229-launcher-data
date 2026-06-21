@@ -1,0 +1,25 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "🔥 LAUNCHER V2.1 DISPONIBLE",
+      "texto": "Nueva versión del launcher con sistema de registro, perfil de usuario y más mods disponibles.",
+      "fecha": "21/06/2026",
+      "tipo": "update"
+    },
+    {
+      "id": 2,
+      "titulo": "🚛 MOD SUSPENSIÓN REALISTA",
+      "texto": "Ya disponible gratis para todos los usuarios. Instálalo desde la Biblioteca.",
+      "fecha": "21/06/2026",
+      "tipo": "mod"
+    },
+    {
+      "id": 3,
+      "titulo": "🎥 ROAD CAM — PRUEBA GRATIS",
+      "texto": "Disfruta 2 horas gratis del mod Road Cam. Activa tu key para acceso completo.",
+      "fecha": "21/06/2026",
+      "tipo": "promo"
+    }
+  ]
+}
