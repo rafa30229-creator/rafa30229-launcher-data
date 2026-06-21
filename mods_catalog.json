@@ -1,0 +1,64 @@
+{
+  "mods": [
+    {
+      "id": "suspension",
+      "nombre": "Suspensión Realista",
+      "descripcion": "Sistema de suspensión realista para ATS y ETS2.",
+      "plan": "FREE",
+      "version": "2.0",
+      "archivo": "Suspension_Rafa30229.scs",
+      "url_ats": "https://github.com/rafa30229-creator/rafa30229-launcher-data/releases/download/v1.0/Suspension_Rafa30229.scs",
+      "url_ets2": "https://github.com/rafa30229-creator/rafa30229-launcher-data/releases/download/v1.0/Suspension_Rafa30229.scs",
+      "banner": "assets/banner_suspension.jpg",
+      "tags": ["🚛 ATS/ETS2", "✅ Gratis", "🔧 Físicas"]
+    },
+    {
+      "id": "roadcam",
+      "nombre": "Road Cam",
+      "descripcion": "Cámara cinematográfica premium. 2 horas gratis, luego requiere key.",
+      "plan": "FREE",
+      "version": "2.0",
+      "archivo": "RoadCam_Rafa30229.scs",
+      "url_ats": "https://github.com/rafa30229-creator/rafa30229-launcher-data/releases/download/v1.0/RoadCam_Rafa30229.scs",
+      "url_ets2": "https://github.com/rafa30229-creator/rafa30229-launcher-data/releases/download/v1.0/RoadCam_Rafa30229.scs",
+      "banner": "assets/banner_camaras.jpg",
+      "tags": ["🎥 Cinemático", "✅ Gratis 2h", "🚛 ATS/ETS2"]
+    },
+    {
+      "id": "graficos",
+      "nombre": "Pack Gráfico Rafa30229",
+      "descripcion": "Sistema gráfico ultra premium con clima e iluminación avanzada.",
+      "plan": "PREMIUM",
+      "version": "2.0",
+      "archivo": "GRAFICOS_RAFA30229.scs",
+      "url_ats": "https://github.com/rafa30229-creator/rafa30229-launcher-data/releases/download/v1.0/GRAFICOS_RAFA30229.scs",
+      "url_ets2": "https://github.com/rafa30229-creator/rafa30229-launcher-data/releases/download/v1.0/GRAFICOS_RAFA30229.scs",
+      "banner": "assets/banner_graficos.jpg",
+      "tags": ["🌧 Clima", "☀ Iluminación", "👑 PREMIUM"]
+    },
+    {
+      "id": "realexperience",
+      "nombre": "Real Experience",
+      "descripcion": "Experiencia de conducción ultra realista para ATS y ETS2.",
+      "plan": "PREMIUM",
+      "version": "2.0",
+      "archivo": "RealExperience_Rafa30229.scs",
+      "url_ats": "https://github.com/rafa30229-creator/rafa30229-launcher-data/releases/download/v1.0/RealExperience_Rafa30229.scs",
+      "url_ets2": "https://github.com/rafa30229-creator/rafa30229-launcher-data/releases/download/v1.0/RealExperience_Rafa30229.scs",
+      "banner": "assets/banner_graficos.jpg",
+      "tags": ["🎮 Realismo", "🚛 ATS/ETS2", "👑 PREMIUM"]
+    },
+    {
+      "id": "immersionpack",
+      "nombre": "Immersion Pack",
+      "descripcion": "Pack completo de inmersión y realismo avanzado.",
+      "plan": "PREMIUM",
+      "version": "2.0",
+      "archivo": "ImmersionPack_Rafa30229.scs",
+      "url_ats": "https://github.com/rafa30229-creator/rafa30229-launcher-data/releases/download/v1.0/ImmersionPack_Rafa30229.scs",
+      "url_ets2": "https://github.com/rafa30229-creator/rafa30229-launcher-data/releases/download/v1.0/ImmersionPack_Rafa30229.scs",
+      "banner": "assets/banner_graficos.jpg",
+      "tags": ["⭐ Inmersión", "🔥 Ultra", "👑 PREMIUM"]
+    }
+  ]
+}
