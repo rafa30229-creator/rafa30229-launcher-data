@@ -1,68 +1,804 @@
 {
-  "usuarios": [
-    {
-      "usuario": "rafa30229",
-      "password": "123456",
-      "plan": "ULTRA",
-      "activo": true,
-      "expira": "2027",
-      "hwid": ""
-    },
-    {
-      "usuario": "Alexcarga12",
-      "password": "Alex0803",
-      "plan": "ULTRA",
-      "activo": true,
-      "expira": "2027",
-      "hwid": "DESKTOP-4DIBFK5"
-    },
-    {
-      "usuario": "RUCHO294",
-      "password": "isabellA294",
-      "plan": "ULTRA",
-      "activo": true,
-      "expira": "2027",
-      "hwid": "DESKTOP-D8Q5SL7"
-    },
-    {
-      "usuario": "viego83",
-      "password": "viego83",
-      "plan": "ULTRA",
-      "activo": true,
-      "expira": "2027",
-      "hwid": "yensuau"
-    },
-    {
-      "usuario": "Ej.fernandez",
-      "password": "Argentina1985*",
-      "plan": "ULTRA",
-      "activo": true,
-      "expira": "2027",
-      "hwid": "LAPTOP-PC4KO00U"
-    },
-    {
-      "usuario": "sebastian.r2026",
-      "password": "@jsrr3222196973.",
-      "plan": "ULTRA",
-      "activo": true,
-      "expira": "2027",
-      "hwid": "RUIZZZ"
-    },
-    {
-      "usuario": "Nintendo88",
-      "password": "andres88@",
-      "plan": "ULTRA",
-      "activo": true,
-      "expira": "2027",
-      "hwid": "DESKTOP-FGLCJV3"
-    },
-    {
-      "usuario": "Daniel2008",
-      "password": "Juegos10",
-      "plan": "ULTRA",
-      "activo": true,
-      "expira": "2027",
-      "hwid": "DESKTOP-EQL648R"
-    }
-  ]
+    "usuarios": [
+        {
+            "usuario": "rafa30229",
+            "password": "123456",
+            "plan": "ULTRA",
+            "activo": true,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "Alexcarga12",
+            "password": "Alex0803",
+            "plan": "ULTRA",
+            "activo": true,
+            "expira": "2027",
+            "hwid": "DESKTOP-4DIBFK5"
+        },
+        {
+            "usuario": "RUCHO294",
+            "password": "isabellA294",
+            "plan": "ULTRA",
+            "activo": true,
+            "expira": "2027",
+            "hwid": "DESKTOP-D8Q5SL7"
+        },
+        {
+            "usuario": "viego83",
+            "password": "viego83",
+            "plan": "ULTRA",
+            "activo": true,
+            "expira": "2027",
+            "hwid": "yensuau"
+        },
+        {
+            "usuario": "Ej.fernandez",
+            "password": "Argentina1985*",
+            "plan": "ULTRA",
+            "activo": true,
+            "expira": "2027",
+            "hwid": "LAPTOP-PC4KO00U"
+        },
+        {
+            "usuario": "sebastian.r2026",
+            "password": "@jsrr3222196973.",
+            "plan": "ULTRA",
+            "activo": true,
+            "expira": "2027",
+            "hwid": "RUIZZZ"
+        },
+        {
+            "usuario": "Nintendo88",
+            "password": "andres88@",
+            "plan": "ULTRA",
+            "activo": true,
+            "expira": "2027",
+            "hwid": "DESKTOP-FGLCJV3"
+        },
+        {
+            "usuario": "Daniel2008",
+            "password": "Juegos10",
+            "plan": "ULTRA",
+            "activo": true,
+            "expira": "2027",
+            "hwid": "DESKTOP-EQL648R"
+        },
+        {
+            "usuario": "Carlos Adrian",
+            "password": "3022",
+            "plan": "FREE",
+            "activo": true,
+            "expira": "2027",
+            "hwid": "B124A362C0FB1167"
+        },
+        {
+            "usuario": "cliente010",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente011",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente012",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente013",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente014",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente015",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente016",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente017",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente018",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente019",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente020",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente021",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente022",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente023",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente024",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente025",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente026",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente027",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente028",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente029",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente030",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente031",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente032",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente033",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente034",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente035",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente036",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente037",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente038",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente039",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente040",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente041",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente042",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente043",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente044",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente045",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente046",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente047",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente048",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente049",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente050",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente051",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente052",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente053",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente054",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente055",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente056",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente057",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente058",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente059",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente060",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente061",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente062",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente063",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente064",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente065",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente066",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente067",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente068",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente069",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente070",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente071",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente072",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente073",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente074",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente075",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente076",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente077",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente078",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente079",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente080",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente081",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente082",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente083",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente084",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente085",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente086",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente087",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente088",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente089",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente090",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente091",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente092",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente093",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente094",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente095",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente096",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente097",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente098",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente099",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        },
+        {
+            "usuario": "cliente100",
+            "password": "cambiar",
+            "plan": "FREE",
+            "activo": false,
+            "expira": "2027",
+            "hwid": ""
+        }
+    ]
 }
