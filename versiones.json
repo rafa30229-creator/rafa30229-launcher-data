@@ -1,5 +1,8 @@
 {
-  "launcher":"2.0",
-  "camaras":"1.1",
-  "graficos":"1.0"
+  "launcher": "2.1",
+  "suspension": "2.0",
+  "roadcam": "2.0",
+  "graficos": "2.0",
+  "realexperience": "2.0",
+  "immersionpack": "2.0"
 }
