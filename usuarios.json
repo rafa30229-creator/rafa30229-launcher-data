@@ -114,11 +114,11 @@
         },
         {
             "usuario": "Carlos Cardona",
-            "password": "3022*",
+            "password": "3022",
             "plan": "FREE",
             "activo": false,
             "expira": "2027",
-            "hwid": ""
+            "hwid": "B124A362C0FB1167"
         },
         {
             "usuario": "cliente016",
