@@ -76,7 +76,7 @@
             "usuario": "Betaaa",
             "password": "Betaaa",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": "F641A4AF8267753E"
         },
@@ -84,7 +84,7 @@
             "usuario": "gselvin129@gmail.com",
             "password": "pinkidoo",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -92,7 +92,7 @@
             "usuario": "Esstiven22",
             "password": "Esstivenbrandon2",
             "plan": "ULTRA",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -100,7 +100,7 @@
             "usuario": "Carlos.9812",
             "password": "@CV98",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": "E68BEFB2E166EFCD"
         },
@@ -108,7 +108,7 @@
             "usuario": "COLBUSTRUCK",
             "password": "Juanmnauel01",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": "1E9D28A877BA3509"
         },
@@ -116,7 +116,7 @@
             "usuario": "Carlos Cardona",
             "password": "3022",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": "B124A362C0FB1167"
         },
