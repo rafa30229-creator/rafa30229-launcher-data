@@ -113,7 +113,7 @@
             "hwid": "1E9D28A877BA3509"
         },
         {
-            "usuario": "Carlos Cardona",
+            "usuario": "Carlos1",
             "password": "3022",
             "plan": "ULTRA",
             "activo": true,
@@ -124,7 +124,7 @@
             "usuario": "cliente016",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -132,7 +132,7 @@
             "usuario": "cliente017",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -140,7 +140,7 @@
             "usuario": "cliente018",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
