@@ -110,12 +110,12 @@
             "plan": "FREE",
             "activo": true,
             "expira": "2027",
-            "hwid": "B124A362C0FB1167"
+            "hwid": "1E9D28A877BA3509"
         },
         {
             "usuario": "rafa",
             "password": "3022",
-            "plan": "ULTRA",
+            "plan": "FREE",
             "activo": true,
             "expira": "2027",
             "hwid": "B124A362C0FB1167"
