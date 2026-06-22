@@ -115,7 +115,7 @@
         {
             "usuario": "rafa",
             "password": "3022",
-            "plan": "FREE",
+            "plan": "ULTRA",
             "activo": true,
             "expira": "2027",
             "hwid": "B124A362C0FB1167"
