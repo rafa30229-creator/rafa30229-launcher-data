@@ -131,7 +131,7 @@
         {
             "usuario": "randy",
             "password": "3022",
-            "plan": "ULTRA",
+            "plan": "FREE",
             "activo": true,
             "expira": "2027",
             "hwid": ""
