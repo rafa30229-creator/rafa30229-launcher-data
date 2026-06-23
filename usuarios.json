@@ -145,18 +145,18 @@
             "hwid": "1C713B4F9556BEF9"
         },
         {
-            "usuario": "cliente019",
-            "password": "cambiar",
+            "usuario": "pino-ki05",
+            "password": "Pino0Mier5",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
-            "hwid": ""
+            "hwid": "445CB1587E660AB7"
         },
         {
             "usuario": "cliente020",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -164,7 +164,7 @@
             "usuario": "cliente021",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -172,7 +172,7 @@
             "usuario": "cliente022",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -180,7 +180,7 @@
             "usuario": "cliente023",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -188,7 +188,7 @@
             "usuario": "cliente024",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -196,7 +196,7 @@
             "usuario": "cliente025",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -204,7 +204,7 @@
             "usuario": "cliente026",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -212,7 +212,7 @@
             "usuario": "cliente027",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -220,7 +220,7 @@
             "usuario": "cliente028",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -228,7 +228,7 @@
             "usuario": "cliente029",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
@@ -236,7 +236,7 @@
             "usuario": "cliente030",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
