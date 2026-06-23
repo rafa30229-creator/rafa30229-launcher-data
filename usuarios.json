@@ -252,7 +252,7 @@
             "usuario": "cliente032",
             "password": "cambiar",
             "plan": "FREE",
-            "activo": false,
+            "activo": true,
             "expira": "2027",
             "hwid": ""
         },
